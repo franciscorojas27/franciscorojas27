@@ -10,7 +10,7 @@
 - ✨ Student of life – I believe that every day is an opportunity to learn and grow.
 - 🌱 I’m currently learning ...
   - .NET
-  - Rust
+  - Go
 - 👯 I'm looking for opportunities to collaborate on open-source projects.
 - ✔  Feel free to ask me anything—I'm happy to help!<br>
 - 📫 Reach out to me at: <a href="franciscorjscontacto@gmail.com">franciscorjscontacto@gmail.com</a>
